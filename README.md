@@ -1,4 +1,6 @@
 # README-Update-Langflow
+![image](img1.png)
+Como importar o projeto: https://docs.langflow.org/administration/collections-projects
 
 ## README-Update-Langflow (Exemplo de entrada)
 Esse repositório usa uma LLM para analisar README do GitHub e gerar um melhor usando Langflow
